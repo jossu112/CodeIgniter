@@ -1,8 +1,6 @@
-Code Igniter
-Code Igniter raamistiku põhjal CRUD näiterakendus
-raamistiku saab alla laadida siit:
 
-``https://www.codeigniter.com/download``
+Code Igniter raamistiku põhjal CRUD näiterakendus
+
 
 VALMIS CRUD LAHENDUS
 Klooni repositoorium kuhugi greeny kausta ning ``cd`` sinna kausta. Selle lahendab järgmine rida:
