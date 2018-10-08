@@ -8,7 +8,7 @@ VALMIS CRUD LAHENDUS
 ``git clone https://github.com/jossu112/CodeIgniter.git && cd CodeIgniter``
 
 2.Loo db:
-```bash
+``
 CREATE TABLE `users` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
   `username` varchar(30) NOT NULL,
@@ -16,11 +16,4 @@ CREATE TABLE `users` (
   `fname` varchar(100) NOT NULL,
 PRIMARY KEY(`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-```
-   ```bash
-   npm install vue
-   
-   npm install
-
-   npm run dev
-   ```  
+``
