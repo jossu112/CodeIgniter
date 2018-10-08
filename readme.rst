@@ -9,7 +9,7 @@ VALMIS CRUD LAHENDUS
 
 2.Loo db:
 
-  ```bash
+
    CREATE TABLE `users` (	
 	 
      `id` int(11) NOT NULL AUTO_INCREMENT,	
@@ -23,4 +23,4 @@ VALMIS CRUD LAHENDUS
    PRIMARY KEY(`id`)
 	 
    ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-   ``` 
+
