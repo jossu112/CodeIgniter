@@ -17,3 +17,10 @@ CREATE TABLE `users` (
 PRIMARY KEY(`id`)
 ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 ```
+   ```bash
+   npm install vue
+   
+   npm install
+
+   npm run dev
+   ```  
