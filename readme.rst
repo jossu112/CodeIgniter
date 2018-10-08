@@ -10,17 +10,16 @@ VALMIS CRUD LAHENDUS
 2.Loo db:
 
 
-   CREATE TABLE `users` (	
+CREATE TABLE `users` (	
 	 
-     `id` int(11) NOT NULL AUTO_INCREMENT,	
+  `id` int(11) NOT NULL AUTO_INCREMENT,	
 		 
-     `username` varchar(30) NOT NULL,
+  `username` varchar(30) NOT NULL,
 		 
-     `password` varchar(30) NOT NULL,
+  `password` varchar(30) NOT NULL,
+ 
+  `fname` varchar(100) NOT NULL,
 		 
-     `fname` varchar(100) NOT NULL,
-		 
-   PRIMARY KEY(`id`)
+PRIMARY KEY(`id`)
 	 
-   ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
-
+) ENGINE=InnoDB DEFAULT CHARSET=latin1;
